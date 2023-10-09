@@ -1,5 +1,5 @@
 # Hi! Welcome to my Github Page👋
-Hello my name is Hasyir but a lot of people call me Melan so i go by the name Melan. This is my Github Page
+Hello my name is Hasyir but a lot of people call me Melan so i go by the name Melan. This is my Github Page! Feel free to open my repository to see other projects uploaded other than the pinned ones.
 <!--
 **HasyirMelanGenrex/HasyirMelanGenrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
